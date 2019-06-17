@@ -42,3 +42,7 @@ JavaScript is useful for performing client side validation
 It is a good programming practice to use file.html.php for files that contain both html and php codes
 
 The opinion poll application demonstrates how the knowledge learnt in the previous lessons can be put together to developing a working application with a database back end.
+
+Setup/ Install.php
+==================
+Helps to install my sql tables
